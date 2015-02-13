@@ -1,0 +1,9 @@
+option java_package = "tagcade.rtb.auction.validation";
+option java_outer_classname = "adRequestValidator";
+
+message AdRequest {
+  required string name = 1;
+  required string typeDevice = 2;
+  required string data = 3;
+  
+}
