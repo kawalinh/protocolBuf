@@ -1,0 +1,79 @@
+Note: UrlGroupSupplySideServiceRefImpl
+code cua class nay da bi modify  -- can phai chu y ki phan nay khi code...... lay lai code nguyen thuy de so sanh, chay lai
+
+
+bid request thieu regs
+
+
+impress thieu secure,pmp
+
+
+banner thieu: wmax, hmax, wmin, hmin
+
+
+Video: thieu protocols , linearity  -> thay doi mot so requirement and validation;
+
+
+Device: macsha1, macmd5, ifa
+
+
+
+
+Thieu: regulation object
+thieu pmp     : private int private_auction; private Deal[] deals; private String ext;
+Thieu: deals  : priave String id; private float bidfoor =0; private String bidfloorcur = "USD"
+; private String[] wseat;
+private String[] wadomain;
+private int at;
+private String ext;
+
+
+
+BID request model
+
+Bid response: thieu nbr
+Bid: thieu dealid/ w/h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
